@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|c:\\users\\gusev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\politexcompany\\politexcompany\\page\\descriptionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|solutionrelative:politexcompany\\page\\descriptionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|c:\\users\\gusev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\politexcompany\\politexcompany\\page\\contractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|solutionrelative:politexcompany\\page\\contractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|c:\\users\\gusev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\politexcompany\\politexcompany\\page\\addcontractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|solutionrelative:politexcompany\\page\\addcontractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|c:\\users\\gusev\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\politexcompany\\politexcompany\\page\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1C5DD4B-4DC0-4824-B3E6-D2DBC74CEE80}|PolitexCompany\\PolitexCompany.csproj|solutionrelative:politexcompany\\page\\clientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DescriptionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\DescriptionPage.xaml",
+              "RelativeDocumentMoniker": "PolitexCompany\\Page\\DescriptionPage.xaml",
+              "ToolTip": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\DescriptionPage.xaml",
+              "RelativeToolTip": "PolitexCompany\\Page\\DescriptionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T13:58:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\ContractPage.xaml",
+              "RelativeDocumentMoniker": "PolitexCompany\\Page\\ContractPage.xaml",
+              "ToolTip": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\ContractPage.xaml",
+              "RelativeToolTip": "PolitexCompany\\Page\\ContractPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T13:57:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\ClientPage.xaml",
+              "RelativeDocumentMoniker": "PolitexCompany\\Page\\ClientPage.xaml",
+              "ToolTip": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\ClientPage.xaml",
+              "RelativeToolTip": "PolitexCompany\\Page\\ClientPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T13:27:47.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContractPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\AddContractPage.xaml",
+              "RelativeDocumentMoniker": "PolitexCompany\\Page\\AddContractPage.xaml",
+              "ToolTip": "C:\\Users\\gusev\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PolitexCompany\\PolitexCompany\\Page\\AddContractPage.xaml",
+              "RelativeToolTip": "PolitexCompany\\Page\\AddContractPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T11:57:48.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
